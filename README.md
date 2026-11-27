@@ -8,7 +8,7 @@ Also right now I study **Applied Artificial Intelligence** at Vilnius Tech.
 
 Right now I'm moving towards <ins>robotics</ins> and one day I want to build both the software and the hardware.
 
-### Tools I use
+### Tools and languages I use
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white">
