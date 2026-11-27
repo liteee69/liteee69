@@ -8,7 +8,7 @@ Also right now I study **Applied Artificial Intelligence** at Vilnius Tech.
 
 Right now I'm moving towards <ins>robotics</ins> and one day I want to build both the software and the hardware.
 
-### Tools and languages I use
+### Tools I use
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white">
@@ -44,7 +44,7 @@ Right now I'm moving towards <ins>robotics</ins> and one day I want to build bot
   </li>
   <li>
     <strong><a href="https://github.com/liteee69/Reviren">Reviren</a></strong>:
-    AI learning app. <b>An agent researches a topic and builds a study roadmap</b>, then the app plans sessions and checks your explanations.
+    AI learning app. <b>An agent researches a topic and builds a study roadmap</b>, then the app plans sessions and checks your explanations. In progress: I'll finish it and then pivot it in a new direction.
     · <a href="https://github.com/liteee69/Reviren">github</a>
   </li>
   <li>
