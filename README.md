@@ -2,7 +2,7 @@
 
 My name is Aleksandr (you can call me Alex), and I am 19 years old.
 
-I am a <ins>software engineer</ins> and I LOVE to build **mobile apps, web apps and internal tools** for businesses.
+I am a <ins>software engineer</ins> and I LOVE to build **web apps and internal tools** for businesses.
 
 Also right now I study **Applied Artificial Intelligence** at Vilnius Tech.
 
@@ -44,12 +44,12 @@ Right now I'm moving towards <ins>robotics</ins> and one day I want to build bot
   </li>
   <li>
     <strong><a href="https://github.com/liteee69/Reviren">Reviren</a></strong>:
-    AI learning app. <b>An agent researches a topic and builds a study roadmap</b>, then the app plans sessions and checks your explanations. In progress: I'll pivot it in a new direction and then finish it.
+    AI learning app. <b>An agent researches a topic and builds a study roadmap</b>, then the app plans sessions and checks your explanations. On hold for now: later I'll pivot it in a new direction and then finish it.
     · <a href="https://github.com/liteee69/Reviren">github</a>
   </li>
   <li>
     <strong><a href="https://github.com/liteee69/foodVision">foodVision</a></strong>:
-    Restaurant analytics dashboard that <b>explains why a day went well or badly</b> and suggests what to do. In progress.
+    Restaurant analytics dashboard that <b>explains why a day went well or badly</b> and suggests what to do. On hold for now, I plan to come back to it.
     · <a href="https://github.com/liteee69/foodVision">github</a>
   </li>
   <li>
